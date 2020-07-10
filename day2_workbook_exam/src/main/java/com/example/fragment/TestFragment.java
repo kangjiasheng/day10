@@ -38,6 +38,7 @@ public class TestFragment extends Fragment implements View.OnClickListener {
                 TrueLastFactory trueLastFactory = new TrueLastFactory();
                 ProductB productB = trueLastFactory.testFactory(ProductB.class);
                 productB.say();
+                //2333
                 break;
         }
     }
