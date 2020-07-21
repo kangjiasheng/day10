@@ -1,4 +1,4 @@
-package com.example.api;
+package com.example.net;
 
 import com.example.bean.NewsBean;
 

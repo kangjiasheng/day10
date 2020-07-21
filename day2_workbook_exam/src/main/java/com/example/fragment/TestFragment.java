@@ -33,6 +33,7 @@ public class TestFragment extends Fragment implements View.OnClickListener {
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
+
             case R.id.btn_test:
 //                TrueFactory trueFactory = new TrueFactory();
                 TrueLastFactory trueLastFactory = new TrueLastFactory();
